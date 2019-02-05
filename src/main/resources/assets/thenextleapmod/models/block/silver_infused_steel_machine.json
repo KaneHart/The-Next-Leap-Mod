@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "thenextleapmod:blocks/silver_infused_steel_machine"
+   }
+}

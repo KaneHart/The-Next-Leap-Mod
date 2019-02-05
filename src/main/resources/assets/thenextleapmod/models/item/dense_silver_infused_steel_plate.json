@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "thenextleapmod:items/dense_silver_infused_steel_plate"
+   }
+}

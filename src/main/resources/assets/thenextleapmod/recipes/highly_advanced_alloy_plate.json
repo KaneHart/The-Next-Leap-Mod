@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "thenextleapmod:highly_advanced_alloy_plate"
+        }
+    },
+    
+    "result":
+    {
+        "item": "thenextleapmod:highly_advanced_alloy_plate",
+        "count": 1
+    }
+}

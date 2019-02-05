@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thenextleapmod",
+  "name": "The Next Leap Mod",
+  "description": "Mod created for The Next Leap Modpack",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kane_Hart"],
+  "credits": "Kane Hart kanechart@gmail.com",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
